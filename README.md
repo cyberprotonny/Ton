@@ -6,6 +6,7 @@ Tonny's website
      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1049027188973984"
      crossorigin="anonymous"></script>
 <meta charset="utf-8" />
+     <meta name="google-adsense-account" content="ca-pub-1049027188973984">
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <title>InterSol — Learn Robotics & Game Programming</title>
 
