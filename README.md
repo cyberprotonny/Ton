@@ -41,6 +41,10 @@ Tonny's website
 
   .back-btn{ display:inline-block; margin:10px 0; color:var(--accent); text-decoration:none; cursor:pointer; }
 </style>
+ <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9507769596803274"
+ crossorigin="anonymous"></script>
+ 
+ <meta name="google-adsense-account" content="ca-pub-9507769596803274">
 </head>
 <body>
 
