@@ -55,6 +55,10 @@ Tonny's website
 
   <!-- Homepage -->
   <section id="home" class="page active">
+       <head>
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1049027188973984"
+     crossorigin="anonymous"></script>
+       </head>
     <h2>Welcome to InterSol</h2>
     <p>Choose what you want to learn today. Click “Visit” to explore more details about each topic.</p>
     <div class="grid">
@@ -73,6 +77,9 @@ Tonny's website
       </div>
 
       <div class="card">
+      <head>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1049027188973984"
+     crossorigin="anonymous"></script></head>
         <div class="thumb">🧩 Unity</div>
         <h3>C# and Unity</h3>
         <p>Master how to make 2D and 3D games using Unity and C# scripts.</p>
@@ -80,7 +87,10 @@ Tonny's website
       </div>
 
       <div class="card">
-        <div class="thumb">⚡ Electronics</div>
+        <div class="thumb">⚡ 
+        <head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1049027188973984"
+     crossorigin="anonymous"></script></head>
+        Electronics</div>
         <h3>Electronics</h3>
         <p>Learn about circuits, sensors, and how they connect to robots.</p>
         <div class="btn" onclick="openPage('electronics')">Visit</div>
